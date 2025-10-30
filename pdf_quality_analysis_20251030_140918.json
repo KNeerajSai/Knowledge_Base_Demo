@@ -1,0 +1,250 @@
+{
+  "total_urls": 9,
+  "analyzed_count": 6,
+  "download_success": 9,
+  "download_failed": 0,
+  "relevant_pdfs": 4,
+  "irrelevant_pdfs": 2,
+  "duplicate_groups": 0,
+  "analysis_results": {
+    "https://www.uhc.com/content/dam/uhcdotcom/en/npp/OSPP-UHCPROVIDER-COM-EN.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/OSPP-UHCPROVIDER-COM-EN.pdf",
+      "metadata": {
+        "page_count": 16,
+        "title": "Online Services Privacy Policy UHC Provider Portal",
+        "author": "United Healthcare",
+        "subject": "",
+        "creator": "Acrobat PDFMaker 25 for Word",
+        "producer": "Adobe PDF Library 25.1.208",
+        "creation_date": "D:20250618001639-05'00'",
+        "modification_date": "D:20250618001727-05'00'",
+        "file_size": 227152,
+        "encrypted": false,
+        "text_sample": " Online Services Privacy Policy \nWe recognize that the privacy of your information is important. This Online Services Privacy \nPolicy (\"Privacy Policy\" or \"Policy\") describes our practices in connection with information we \ncollect through the online and mobile websites, platforms, and services that we own or \noperate and that contain a link to this Privacy Policy (collectively, \"Online Services\"). \nAs used in this Policy, terms such as \"we,\" \"us,\" \"our,\" and \"Company\" refer to current and \nfuture affiliated entities, subsidiaries, agents, contractors, or vendors of UnitedHealthcare. \nOur Online Services operate on computer servers in the United States (\u201cU.S.\u201d) audience.  \nAny Information you provide, including any personal information, will be transferred to and \nprocessed by a computer server located within the U.S. \nBy using the Online Services, you consent to our collection, use, disclosure, and storage of \ninformation as described in this Privacy Policy. \nOur Privacy Policy explains: \n\u2022 \nWhen This Privacy Policy Applies \n\u2022 \nWhat Information We Collect About You  \n\u2022 \nHow We Use Your Information \n\u2022 \nHow We Share Your Information \n\u2022 \nHow to Manage Your Information \n\u2022 \nProtecting Your Information \n\u2022 \nChildren Under 13 \n\u2022 \nAdditional Rights for California Residents \n\u2022 \nState Consumer Privacy Notice (CA) \n\u2022 \nSocial Security Number Protection Policy \n\u2022 \nChanges to This Policy \n\u2022 \nContact Us \n \nWhen This Privacy Policy Applies \nOur Policy applies to Online Services that we own or operate and that contain a link to this \nPrivacy Policy. Our Policy does not apply to information collected through other means such \nas by telephone, via Online Services that do not link to this Privacy Policy, or in person, \nalthough that information may be protected by other privacy policies. \nOur Policy does not apply to the practices of other companies or other websites or software \napplications that may be linked from or made available through our Online Services.  \nThe inclusion of a li",
+        "estimated_text_length": 23808.0
+      },
+      "categorization": {
+        "primary_category": "forms_documents",
+        "category_scores": {
+          "forms_documents": 2
+        },
+        "exclusion_score": 1,
+        "relevance_score": 0,
+        "quality_score": 3,
+        "is_relevant": false,
+        "quality_indicators": {
+          "has_meaningful_title": true,
+          "sufficient_content": true,
+          "reasonable_pages": true,
+          "no_exclusions": false
+        }
+      },
+      "content_hash": "11aff50b50707dcbc1f1c0eff570c932",
+      "url": "https://www.uhc.com/content/dam/uhcdotcom/en/npp/OSPP-UHCPROVIDER-COM-EN.pdf"
+    },
+    "https://www.uhc.com/content/dam/uhcdotcom/en/npp/TOU-UHCPROVIDER-COM-EN.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/TOU-UHCPROVIDER-COM-EN.pdf",
+      "metadata": {
+        "page_count": 21,
+        "title": "",
+        "author": "Kowalski, Bill",
+        "subject": "",
+        "creator": "Microsoft\u00ae Word for Microsoft 365",
+        "producer": "Microsoft\u00ae Word for Microsoft 365",
+        "creation_date": "D:20251022131635-05'00'",
+        "modification_date": "D:20251022131635-05'00'",
+        "file_size": 292314,
+        "encrypted": false,
+        "text_sample": " \n \nTerms of Use \n \n \nTHIS DOCUMENT CONTAINS AN ARBITRATION AGREEMENT AND CLASS ACTION \nWAIVER, WHICH AFFECTS YOUR LEGAL RIGHTS. YOU SHOULD REVIEW THIS \nDOCUMENT IN ITS ENTIRETY BEFORE ACCESSING OR USING THE ONLINE SERVICES. \nAgreement and Terms \nThese Terms of Use (\u201cTerms\u201d) describe the rules for using UnitedHealthcare Services, Inc.  \n(also \u201c\u2018we,\u201d \u201cus,\u201d \u201cour,\u201d and \u201cCompany\u201d) and Affiliates\u2019 (an entity controlling, controlled by, or \nunder common control with a named party) online and mobile websites, platforms, services and \napplications (\u201cOnline Services\u201d).   \n \nOur Online Services are intended for a United States (\u201cU.S.\u201d) audience. If you live outside the \nU.S., you may see Content on the Online Services about products or therapies that are not \navailable or authorized in your country. Any information you provide, including any personal \ninformation, will be transferred to and processed by a computer server located within \nthe U.S. \n \nBy using our Online Services, you agree to these Terms and our Privacy Policies. We may \nchange these Terms at any time, and such changes will be posted on the Online Services, with \nthe date of the last revision listed as the \u201cEffective Date\u201d at the bottom of these Terms. Any \nmodifications will be effective immediately upon such posting. By continuing to use the Online \nServices, you consent to any changes to our Terms.   \n \nIf you, or the organization you belong to, has an existing agreement (\"Business Agreement\") \nwith us, the Online Services you use through this site are also subject to the terms and \nconditions of that Business Agreement, incorporated herein, which, together with these Terms \nshall constitute the entire agreement between you and us pertaining to your use of our Online \nServices. \n \nYour affirmative act of using the Online Services, or registering for membership, constitutes your \nelectronic signature to these Terms and your consent to enter into this agreement electronically. \nYou may print and retain a copy ",
+        "estimated_text_length": 18627.0
+      },
+      "categorization": {
+        "primary_category": "forms_documents",
+        "category_scores": {
+          "forms_documents": 2
+        },
+        "exclusion_score": 1,
+        "relevance_score": 0,
+        "quality_score": 2,
+        "is_relevant": false,
+        "quality_indicators": {
+          "has_meaningful_title": false,
+          "sufficient_content": true,
+          "reasonable_pages": true,
+          "no_exclusions": false
+        }
+      },
+      "content_hash": "0087dfc1aa02b12e60c52aa7450026f0",
+      "url": "https://www.uhc.com/content/dam/uhcdotcom/en/npp/TOU-UHCPROVIDER-COM-EN.pdf"
+    },
+    "https://www.uhc.com/content/dam/uhcdotcom/en/IndividualAndFamilies/PDF/2020-SBC-Sample.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/2020-SBC-Sample.pdf",
+      "metadata": {
+        "page_count": 5,
+        "title": "Summary of Benefits and Coverage Completed Example",
+        "author": "CMS",
+        "subject": "Provides a completed sample of the  fillable Summary of Benefits and Coverage template to provide answers to key questions and information about common medical events",
+        "creator": "Acrobat PDFMaker 15 for Word",
+        "producer": "Adobe PDF Library 15.0",
+        "creation_date": "D:20200130073528-06'00'",
+        "modification_date": "D:20210213063153Z",
+        "file_size": 251163,
+        "encrypted": false,
+        "text_sample": "Page 1 of 5 \nSummary of Benefits and Coverage: What this Plan Covers & What You Pay for Covered Services \nInsurance Company 1: Plan Option 1 \nCoverage Period: 01/01/2022-12/31/2022 \nCoverage for: Family | Plan Type: PPO  \nThe Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan \nwould share the cost for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided \nseparately. This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, [insert contact \ninformation]. For general definitions of common terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined \nterms, see the Glossary. You can view the Glossary at www.[insert].com or call 1-800-[insert] to request a copy. \nImportant Questions \nAnswers \nWhy This Matters: \nWhat is the overall \ndeductible? \n$500 / individual or $1,000 / family \nGenerally, you must pay all of the costs from providers up to the deductible amount before this \nplan begins to pay. If you have other family members on the plan, each family member must \nmeet their own individual deductible until the total amount of deductible expenses paid by all \nfamily members meets the overall family deductible. \nAre there services \ncovered before you meet \nyour deductible? \nYes. Preventive care and primary \ncare services are covered before \nyou meet your deductible. \nThis plan covers some items and services even if you haven\u2019t yet met the deductible amount. \nBut a copayment or coinsurance may apply. For example, this plan covers certain preventive \nservices without cost sharing and before you meet your deductible. See a list of covered \npreventive services at https://www.healthcare.gov/coverage/preventive-care-benefits/. \nAre there other \ndeductibles for specific \nservices? \nYes. $300 for prescription drug \ncoverage and $300 for",
+        "estimated_text_length": 6118.333333333334
+      },
+      "categorization": {
+        "primary_category": "coverage_benefits",
+        "category_scores": {
+          "claims_billing": 2,
+          "coverage_benefits": 3,
+          "forms_documents": 1
+        },
+        "exclusion_score": 1,
+        "relevance_score": 4,
+        "quality_score": 3,
+        "is_relevant": true,
+        "quality_indicators": {
+          "has_meaningful_title": true,
+          "sufficient_content": true,
+          "reasonable_pages": true,
+          "no_exclusions": false
+        }
+      },
+      "content_hash": "05221e9601d4dff8b28b37a2843c2674",
+      "url": "https://www.uhc.com/content/dam/uhcdotcom/en/IndividualAndFamilies/PDF/2020-SBC-Sample.pdf"
+    },
+    "https://providers.kp.org/content/dam/kp-providers/en/co/pdf/doula-coverage-notification.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/doula-coverage-notification.pdf",
+      "metadata_error": "cannot open broken document"
+    },
+    "https://providers.kp.org/content/dam/kp-providers/en/co/pdf/behavioral-health-admissions-process.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/behavioral-health-admissions-process.pdf",
+      "metadata_error": "cannot open broken document"
+    },
+    "https://providers.kp.org/content/dam/kp-providers/en/co/pdf/pain-diagnoses-en.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/pain-diagnoses-en.pdf",
+      "metadata_error": "cannot open broken document"
+    },
+    "https://files.providernews.anthem.com/1661/2022-Provider-Manual-pages-44-113.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/2022-Provider-Manual-pages-44-113.pdf",
+      "metadata": {
+        "page_count": 70,
+        "title": "",
+        "author": "",
+        "subject": "",
+        "creator": "Acrobat PDFMaker 21 for Word",
+        "producer": "Adobe PDF Library 21.7.131",
+        "creation_date": "D:20220429153432-04'00'",
+        "modification_date": "D:20220429153525-04'00'",
+        "file_size": 570136,
+        "encrypted": false,
+        "text_sample": "Anthem Blue Cross and Blue Shield \u2013 Maine Provider Manual \u2013 Effective July 1, 2022 \n \n \n44 \n \nField 66:   \n  \nDiagnosis and Procedure Code Qualifier (ICD Version Indicator):  The qualifier that \ndenotes the version of International Classification of Diseases (ICD) reported. The following \nqualifier codes reflect the edition portion of the ICD: 9 -Ninth Revision for dates of service \nprior to 10/01/2015 or 0 -Tenth Revision for dates of service 10/01/2015 and later.  \nField 67:   \nPrincipal Diagnosis Code and Present on Admission (POA) Indicator   \nFields 67A-Q:  Other Diagnosis Code(s) and Present on Admission (POA) Indicator(s)  \nField 74:  \nPrincipal Procedure Code and Date  \n \nMEDICAL RECORDS SUBMISSION (SOLICITED AND UNSOLICITED) \nSolicited Medical Records Submission  \nWhen additional medical records are being submitted in response to Anthem\u2019s request, the \nrecommended method is to submit them electronically via Availity using the Medical Attachments \ntool following the directions below.  The Medical Attachments tool supports .tiff, .jpg, and .pdf \nattachment files types.  Providers should submit medical records within ten days of Anthem\u2019s \nrequest. \nA Provider organization\u2019s Availity administrator should complete the following set-up steps to \nauthorize user access to the Medical Attachments Tool. \nFrom My Account Dashboard, select Enrollments Center > Medical Attachments Setup, \nfollow the prompts and complete the following sections:  \n\u2022 \nSelect Application > Choose Medical Attachments Registration; \n\u2022 \nProvider Management > Select Organization from the drop-down;  \n1. Add NPIs and/or Tax IDs (both are recommended). \n2. Multiples can be added separated by spaces or semi-colons.  \n\u2022 \nAssign user access by checking the box in front of the user\u2019s name. Users may be \nremoved by unchecking their name.  \nTo submit supporting documentation in response to a solicited request: \n\u2022 \nLogin to Availity portal; \n\u2022 \nSelect Claims & Payments > Attachments \u2013 New; \n\u2022 \nSelect Se",
+        "estimated_text_length": 59266.666666666664
+      },
+      "categorization": {
+        "primary_category": "forms_documents",
+        "category_scores": {
+          "provider_manual": 1,
+          "claims_billing": 2,
+          "forms_documents": 3
+        },
+        "exclusion_score": 0,
+        "relevance_score": 6,
+        "quality_score": 3,
+        "is_relevant": true,
+        "quality_indicators": {
+          "has_meaningful_title": false,
+          "sufficient_content": true,
+          "reasonable_pages": true,
+          "no_exclusions": true
+        }
+      },
+      "content_hash": "34d350cf42cd540164b9b11ca6defb02",
+      "url": "https://files.providernews.anthem.com/1661/2022-Provider-Manual-pages-44-113.pdf"
+    },
+    "https://providers.anthem.com/docs/gpp/OH_CAID_ProviderManual.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/OH_CAID_ProviderManual.pdf",
+      "metadata": {
+        "page_count": 129,
+        "title": "",
+        "author": "",
+        "subject": "",
+        "creator": "Adobe Acrobat (64-bit) 25.1.20756",
+        "producer": "Adobe Acrobat (64-bit) 25.1.20756",
+        "creation_date": "D:20251020095523-05'00'",
+        "modification_date": "D:20251020095642-05'00'",
+        "file_size": 2190222,
+        "encrypted": false,
+        "text_sample": "Anthem Blue Cross and Blue Shield Medicaid \nOhio Medicaid Managed Care\nProvider Manual\nOHBCBS-CD-PM-093342-25\n \n \nOHBCBS-CD-PM-093342-25 October 2025 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThis page is left intentionally blank. \n \n \nClick to return to Table of Contents \n2 \n Table of Contents \n \nSECTION 1: INTRODUCTION .................................................................................................................... 6 \nWelcome............................................................................................................................................. 6 \nAbout This Manual .............................................................................................................................. 6 \nUpdates and Changes .......................................................................................................................... 7 \nHIPAA and PHI ..................................................................................................................................... 7 \nAccessing Information, Forms, and Tools on Our Website ................................................................... 8 \nWebsites ............................................................................................................................................. 8 \nSECTION 2: BASIC PLAN INFORMATION .................................................................................................. 9 \nNondiscrimination Policy ..................................................................................................................... 9 \nEqual Program Access on the Basis of Gender ..................................................................................... 9 \nGeneral Contact Information ............................................................................................................. 10 \nAnthem and Ohio Department of Medicaid Contacts ........................................................................ 10 \nProvi",
+        "estimated_text_length": 300312.0
+      },
+      "categorization": {
+        "primary_category": "provider_manual",
+        "category_scores": {
+          "provider_manual": 1,
+          "forms_documents": 1
+        },
+        "exclusion_score": 0,
+        "relevance_score": 2,
+        "quality_score": 3,
+        "is_relevant": true,
+        "quality_indicators": {
+          "has_meaningful_title": false,
+          "sufficient_content": true,
+          "reasonable_pages": true,
+          "no_exclusions": true
+        }
+      },
+      "content_hash": "8dcb59f7b38db18d7604395ec632d211",
+      "url": "https://providers.anthem.com/docs/gpp/OH_CAID_ProviderManual.pdf"
+    },
+    "https://providers.anthem.com/docs/gpp/NV_CAID_PriorAuthreq006648-22.pdf": {
+      "download_success": true,
+      "file_path": "pdf_analysis/NV_CAID_PriorAuthreq006648-22.pdf",
+      "metadata": {
+        "page_count": 1,
+        "title": "",
+        "author": "Crook, Katherine",
+        "subject": "",
+        "creator": "Acrobat PDFMaker 22 for Word",
+        "producer": "Adobe PDF Library 22.3.34",
+        "creation_date": "D:20221018124417-07'00'",
+        "modification_date": "D:20221018124419-07'00'",
+        "file_size": 242446,
+        "encrypted": false,
+        "text_sample": " Anthem Blue Cross and Blue Shield Healthcare Solutions \nMedicaid Managed Care \nProvider Bulletin \nOctober 2022 \n* Availity, LLC is an independent company providing administrative support services on behalf of Anthem Blue Cross and Blue Shield  \nHealthcare Solutions. \nhttps://providers.anthem.com/nv \nAnthem Blue Cross and Blue Shield Healthcare Solutions is the trade name of Community Care Health Plan of Nevada, Inc., an independent licensee of \nthe Blue Cross and Blue Shield Association. Anthem is a registered trademark of Anthem Insurance Companies, Inc.  \nNVBCBS-CD-006648-22 October 2022 \nPrior authorization and notification requirements \n \nHow to request prior authorizations and give us notifications: \n\u2022 \nOnline: https://providers.anthem.com/nv  then log in to the Availity*  \n\u2022 \nBy phone: 844-396-2330  \n\u2022 \nBy fax: 800-964-3627  \n\u2022 \nFor behavioral health requests, they should be submitted using our preferred electronic method at \navaility.com.  \no If you prefer to paper fax, submit behavioral health outpatient information to \n844-442-8007; fax behavioral health inpatient information to 844-451-2794. \n \nVerify authorization requirements for specific codes/services: \n\u2022 \nVisit https://providers.anthem.com/nv.   \n\u2022 \nSelect Resources from the top menu. \n\u2022 \nThen select Precertification lookup tool. \n\u2022 \nSelect Prior Authorization & Claims from the menu.  \n* Requirements listed are for network providers. In many cases, out-of-network providers may be \nrequired to request prior authorization for services when network providers do not. \n \nPrior authorization \u2014 the act of authorizing specific services or activities before they are rendered or occur. \n \nNotification \u2014 telephonic, fax, or electronic communication received from a provider to inform us of his or \nher intent to render covered medical services to a member:  \n\u2022 \nGive us notification prior to rendering services outlined in this document.  \n\u2022 \nFor emergency or urgent services, give us notification within 24 hours or",
+        "estimated_text_length": 3558.0
+      },
+      "categorization": {
+        "primary_category": "prior_authorization",
+        "category_scores": {
+          "prior_authorization": 1,
+          "claims_billing": 1,
+          "forms_documents": 1
+        },
+        "exclusion_score": 0,
+        "relevance_score": 3,
+        "quality_score": 3,
+        "is_relevant": true,
+        "quality_indicators": {
+          "has_meaningful_title": false,
+          "sufficient_content": true,
+          "reasonable_pages": true,
+          "no_exclusions": true
+        }
+      },
+      "content_hash": "072654aeeea815e274b38ed8469cc9f6",
+      "url": "https://providers.anthem.com/docs/gpp/NV_CAID_PriorAuthreq006648-22.pdf"
+    }
+  },
+  "duplicates_detail": []
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+results/
+logs/
+payer_pdfs/
+downloaded_pdfs/
+pdf_analysis/
+.DS_Store
+temp_*.pdf
+*.tmp
+.vscode/
+.idea/
