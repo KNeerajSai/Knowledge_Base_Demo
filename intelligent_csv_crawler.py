@@ -11,7 +11,7 @@ Features:
 - Scalable to hundreds of payers
 - Auto-detection of common portal URLs
 
-Author: Neeraj Kondaveeti
+Author: Development Team
 Date: October 2025
 """
 

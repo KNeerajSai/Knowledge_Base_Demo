@@ -9,7 +9,7 @@ This script:
 3. Identifies gaps in regional coverage
 4. Provides strategies for comprehensive regional discovery
 
-Author: Neeraj Kondaveeti
+Author: Development Team
 Date: October 2025
 """
 

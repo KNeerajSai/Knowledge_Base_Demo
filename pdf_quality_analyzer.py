@@ -10,7 +10,7 @@ This script:
 4. Categorizes PDFs by relevance and usefulness
 5. Provides content deduplication
 
-Author: Neeraj Kondaveeti
+Author: Development Team
 Date: October 2025
 """
 

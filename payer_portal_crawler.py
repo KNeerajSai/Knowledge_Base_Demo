@@ -14,7 +14,7 @@ Target Payers (Phase 1):
 2. Anthem/Elevance Health (BCBS)
 3. Aetna
 
-Author: Neeraj Kondaveeti
+Author: Development Team
 Date: October 2025
 """
 

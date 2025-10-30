@@ -10,7 +10,7 @@ Key Features:
 4. Quality scoring and relevance assessment
 5. Smart content extraction with deduplication
 
-Author: Neeraj Kondaveeti
+Author: Development Team
 Date: October 2025
 """
 
