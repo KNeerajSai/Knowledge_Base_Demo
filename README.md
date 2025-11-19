@@ -6,6 +6,33 @@
 
 > Intelligent web crawler that automatically extracts payer rules, filing requirements, and policies from major healthcare insurance portals, converting unstructured information into structured knowledge for revenue cycle teams.
 
+## 🚀 **NEW: Azure Document Intelligence Pipeline** 
+
+**🎉 PRODUCTION READY BRANCH: `feature/healthcare-pipeline-azure-di`**
+
+✅ **61 Healthcare Rules Extracted** from United Healthcare & CountyCare  
+✅ **PostgreSQL Database** with complete healthcare schema  
+✅ **18 Major Payers Configured** (UHC, Anthem, Aetna, Humana, Cigna, Kaiser, etc.)  
+✅ **Azure DI Integration** for advanced PDF processing  
+
+### 🏥 **For Team Members - Get Started:**
+
+```bash
+# Clone and switch to production branch
+git clone https://github.com/KNeerajSai/Knowledge_Base_Demo.git
+cd Knowledge_Base_Demo
+git checkout feature/healthcare-pipeline-azure-di
+
+# Follow setup in AZURE_PIPELINE_README.md
+pip install -r requirements_azure_pipeline.txt
+python configure_existing_postgres.py
+python quick_db_check.py  # Shows 61 existing healthcare rules
+```
+
+**📋 Complete team setup guide:** See `AZURE_PIPELINE_README.md` in the branch
+
+---
+
 ---
 
 ## 🎯 **Project Overview**
