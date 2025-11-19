@@ -155,6 +155,33 @@ class PayerPortalCrawler:
                 "rate_limit": 2  # seconds between requests
             },
             
+            "countycare": {
+                "name": "CountyCare Health Plan",
+                "base_url": "https://countycare.com/",
+                "provider_portal": "https://countycare.com/providers/",
+                "additional_pages": [
+                    "https://countycare.com/member-resources/",
+                    "https://countycare.com/about-us/",
+                    "https://countycare.com/"
+                ],
+                "target_sections": {
+                    "prior_authorization": [
+                        "prior authorization", "preauthorization", "pre-auth",
+                        "authorization requirements", "auth criteria"
+                    ],
+                    "timely_filing": [
+                        "timely filing", "claim submission deadlines", 
+                        "filing requirements", "submission timelines"
+                    ],
+                    "appeals": [
+                        "appeals process", "claim appeals", "dispute resolution",
+                        "appeal procedures", "grievances"
+                    ]
+                },
+                "login_required": False,
+                "rate_limit": 2
+            },
+            
             "anthem": {
                 "name": "Anthem/Elevance Health",
                 "base_url": "https://providers.anthem.com/",
